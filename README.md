@@ -1,5 +1,7 @@
 # Background-Color-Transition-using-js
 It is a html webpage which changes colors initially from red to violet while displaying each color gradient that occurs in between the mentioned colors.
+# ******FOR DEMO PURPOSE/VIEWING PURPOSE*******-https://abhinavztb.github.io/bgtransition.github.io/
+
 # Can be used as an effective background in homepages ,we can also enhance the beauty by adding particles.js
 
 It is a different kind of color gradient scheme applied in here- Brightness is in the center and as we move far it goes darker and at the ends it appears black.
